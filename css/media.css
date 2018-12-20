@@ -1,0 +1,333 @@
+/*  Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+/* start header */
+.navbar-brand img{
+	width: 180px;
+}
+.menu ul li a{
+	 text-align: right;
+}
+.menu ul li a:hover{
+	background-color: #ffd338;
+	color: #f05c5c!important;
+}
+ .dropdown{
+	text-align: right;
+} 
+
+.search_icon{
+	text-align: right;
+	padding: 0px 15px;
+}
+/* end header */
+/* start banner */
+.banner_content {
+    margin-top: 100px;
+    margin-bottom: 90px;
+    }
+.banner_content h1{
+	font-size: 35px;
+}
+/* end banner */
+/* start our_kid1 */
+.our_kid1{
+	padding: 50px 0px;
+}
+.kid_title {
+    margin-bottom: 20px;
+    }
+.kid_title h1{
+	margin-bottom: 20px;
+}
+ .about_title h2{
+ 	font-size: 22px;
+ }
+.about_title img{
+	width: 200px;
+    margin-bottom: 25px;
+    margin-top: 5px;
+}
+.kid_title h1{
+	margin-bottom: 20px;
+}
+/* end our_kid1 */
+/* start courses */
+.courses {
+    padding: 60px 0px;
+}
+.courses_title h1{
+	font-size: 20px;
+	}
+.courses_title img {
+    margin-top: 15px;
+    margin-bottom: 40px;
+	}
+.card_mb{
+	margin-bottom: 30px;
+}
+/* end courses */
+/* start our_kid2 */
+.our_kid2{
+	padding: 60px 0px;
+	}
+.kid_title h1{
+	font-size: 23px;
+}
+.activities h3{
+	font-size: 18px;
+	word-spacing: 2px;
+}
+ .kid_title {
+    margin-bottom: 20px;
+	}
+.activities img{
+    margin-top: 20px;
+	}
+/* end our_kid2 */
+/*  start moments */
+.moments{
+	padding: 60px 0px;
+}
+.moments_title h1{
+	font-size: 20px;
+}
+.moments_title img{
+	margin-bottom: 60px;
+}
+.m-btm img{
+	margin-top: 60px;
+	width: 200px;
+}
+/*  end moments */
+ }
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/* start header */
+.navbar-brand img{
+	width: 180px;
+}
+.menu ul li a{
+	 text-align: right;
+}
+.menu ul li a:hover{
+	background-color: #ffd338;
+	color: #f05c5c!important;
+}
+ .dropdown{
+	text-align: right;
+} 
+
+.search_icon{
+	text-align: right;
+	padding: 0px 15px;
+}
+/* end header */
+/* start banner */
+.banner_content {
+    margin-top: 120px;
+    margin-bottom: 150px;
+    }
+ .banner_content h1{
+ 	font-size: 39px;
+ }
+/* end banner */
+/* start our_kid1 */
+.our_kid1{
+	padding: 70px 0px;
+}
+.kid_title {
+    margin-bottom: 40px;
+    }
+.about_title img{
+	width: 210px;
+    margin-bottom: 25px;
+    margin-top: 5px;
+}
+.kid_title h1{
+	margin-bottom: 20px;
+}
+/* end our_kid1 */
+/* start courses */
+ .courses {
+    padding: 70px 0px;
+	}
+.courses_title img {
+    margin-bottom: 50px;
+    margin-top: 20px;
+	}
+.card_mb{
+	margin-bottom: 23px!important;
+	}
+.card_mt{
+	margin-top: 30px;
+}
+.age {
+    padding-right: 17px;
+}
+.courses_title h1{
+	font-size: 25px;
+}
+.card-title{
+	font-size: 20px;
+}
+.card-text{
+	font-size: 15px;
+}
+
+ /* start courses */
+ /* start our_kid2 */
+ .our_kid2{
+ 	padding: 70px 0px;
+ 	}
+ .kid_title {
+    margin-bottom: 30px;
+	}
+.activities img{
+    margin-top: 30px;
+	}
+.activities h3{
+	font-size: 20px;
+}
+	 /* start our_kid2 */
+/*  start moments */
+.moments{
+	padding: 70px 0px;
+}
+.moments_title h1{
+	font-size: 25px;
+}
+.moments_title img{
+	margin-bottom: 70px;
+}
+.m-btm img{
+	margin-top: 70px;
+	width: 210px;
+}
+/*  end moments */
+ }
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+/* start header */
+.menu ul li a{
+	 text-align: right;
+}
+.menu ul li a:hover{
+	background-color: #ffd338;
+	color: #f05c5c!important;
+}
+ .dropdown{
+	text-align: right;
+} 
+
+.search_icon{
+	text-align: right;
+	padding: 0px 15px;
+}
+/* end header */
+/* stat banner */
+.banner_content {
+    margin-top: 160px;
+    margin-bottom: 100px;
+    }
+/* end banner */
+/* start our_kid1 */
+.our_kid1 {
+    padding: 80px 0px;
+    }
+.about_img{
+	margin-top: 70px;
+	}
+.about_title img{
+	width: 210px;
+}
+/* end our_kid1 */
+/* start our_kid2 */
+.our_kid2{
+	padding: 80px 0px;
+}
+.activities h3{
+	font-size: 19px;
+}
+/* end our_kid2 */
+/* start courses */
+ .courses {
+    padding: 80px 0px;
+	}
+.courses_title img {
+    margin-bottom: 50px;
+    margin-top: 20px;
+	}
+.card_mb{
+	margin-bottom: 0px!important;
+	}
+.card_mt{
+	margin-top: 30px;
+}
+.math_mb,.skill_mb{
+	margin-bottom: 0px!important;
+}
+
+ /* start courses */
+/*  start moments */
+.moments{
+	padding: 80px 0px;
+}
+.moments_title img{
+	margin-bottom: 80px;
+}
+.m-btm img{
+	margin-top: 80px;
+	width: 210px;
+}
+/*  end moments */
+  }
+ 
+
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+/* start banner */
+.banner_content {
+    margin-top: 180px;
+    margin-bottom: 220px;
+}
+/* end banner */
+/* start our_kid1 */
+.our_kid1 {
+    padding: 80px 0px;
+    }
+.about_img{
+	margin-top: 40px;
+}
+/* end our_kid1 */
+/* start courses */
+.card_mb{
+	margin-bottom: 0px!important;
+	}
+.card-title{
+	font-size: 16px;
+	letter-spacing: 2px;
+}
+.card-text{
+	font-size: 15px;
+}
+.card-footer{
+	font-size: 15px;
+}
+.age{
+	padding-right: 4px;
+}
+.math_mb{
+	margin-bottom: 44px!important;
+}
+.art_mb{
+	margin-bottom: 22px!important;
+}
+/* start courses */
+ }
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+ }
